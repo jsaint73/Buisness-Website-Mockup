@@ -1,0 +1,67 @@
+#mynavbar {
+  background-color: #ffd319;
+  border-radius: 5px;
+}
+
+#mynavbar li a {
+  color: black;
+}
+
+#mynavbar li a:hover {
+  background-color: whitesmoke;
+  color: #blue;
+}
+main {
+   background-color: purple;
+   text-align: center;
+   padding: 30px;
+   text-decoration: none;
+   color: #black;
+}
+header, footer {
+  background-color: #ff2975;
+  color: whitesmoke;
+  text-align: center;
+  padding: 5px;
+}
+body {
+  color: black;
+}
+nav {
+  color: black;
+}
+img {
+  width: 100%;
+  height: auto;
+}
+section {
+  padding: 20px;
+  background-color: #f222ff;
+  color: darkgreen;
+  text-align: center;
+}
+
+a:link {
+  color: white;
+}
+
+a:visited {
+  color: #9F9DC0;
+}
+
+a:hover {
+  color: #C8E5FA;
+}
+
+a:active {
+  color: #9F9DC0;
+}
+#logo {
+  display: inline-block;
+  margin: 20px; 
+  float: left;
+  height: 40px;
+  width: auto; 
+  border-radius: 50%; 
+  background-color: #ffd319;
+}
