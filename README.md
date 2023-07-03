@@ -1,3 +1,3 @@
-# Final-Project-2
+# Buisness Website Mockup
 
-Here is the final project for Web Design. Did a pretty good job for it 
+Created a website as a way to test my strength with coding
